@@ -1,4 +1,4 @@
-# Bộ nhân mul16 – Tran Pham Kim Quyen - 77482403509
+# Bộ nhân mul16 – Tran Pham Kim Quyen - 77482403509 hihi
 
 Repo cá nhân dùng cho Lab 2 đến Lab 8. Đặc tả: `doc/dac-ta.md`.
 
